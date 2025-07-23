@@ -1,0 +1,6 @@
+Name: yaqoob
+Choices: c b c
+Result: Introvert
+Timestamp: Wed Jul 23 17:15:33 2025
+
+
